@@ -7,8 +7,10 @@ learnings about and licences
 3.
 4.
 
-##Licences
+## Licences
 1.mit
 2.apache
 3.Bsd 2clause simplified licence
 4.Gnu
+
+Thank you
